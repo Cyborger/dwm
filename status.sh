@@ -23,7 +23,7 @@ get_charge() {
 }
 
 get_datetime() {
-	date +"%d %b %Y %I:%M"
+	date +"%d %b %Y %R"
 }
 
 get_status() {
