@@ -2,6 +2,6 @@
 
 picom &
 feh --bg-scale ~/Pictures/firewatch.jpg &
-slstatus &
+bash ~/.config/dwm/status.sh &
 
 dwm
