@@ -2,6 +2,7 @@
 
 picom &
 feh --bg-scale ~/Pictures/firewatch.jpg &
+dunst &
 slstatus &
 
 dwm
